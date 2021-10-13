@@ -1,2 +1,2 @@
 # HarshAssignment
-i am devloped this registration page using python django framework.
+i Have developed this registration page using python django framework.
